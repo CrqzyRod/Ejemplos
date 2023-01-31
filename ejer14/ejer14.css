@@ -1,0 +1,14 @@
+header {
+    margin: auto;
+    width: 300px;    background-color: lightblue;
+}
+
+p#p1 {
+    background-color: lightblue;
+    padding: 25px 50px;
+}
+
+p#p2 {
+    padding: 50px;
+    background-color: lightblue;
+}

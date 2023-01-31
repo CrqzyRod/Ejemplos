@@ -1,0 +1,17 @@
+div#d1 {
+    background-image: url("bg.jpg");
+    border: 2px solid black;
+}
+
+div#d2 {
+    background-image: url("bg.jpg");
+    background-size: 300px 100px;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+}
+
+p {
+    border: 3px solid red;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+}

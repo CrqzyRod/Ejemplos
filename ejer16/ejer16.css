@@ -1,0 +1,28 @@
+#d1 {
+    background-color: wheat;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#d2 {
+    background-color: yellow;
+    text-indent: 30px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#d3 {
+    background-color: lightpink;
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#d4 {
+    background-color: rgb(221, 87, 221);
+    word-spacing: 10px;
+    font-size: 10px;
+}
+
+#s1 {
+    text-decoration: underline;
+}
