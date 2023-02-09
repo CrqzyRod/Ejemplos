@@ -1,0 +1,21 @@
+body {
+    background-color: gainsboro;
+}
+
+.cont {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    width: 1350px;
+    height: 1000px;
+    margin-left: 35px;
+}
+
+.cont2 {
+    background-color: white;
+    width: 1000px;
+    height: 400px;
+    margin: 50px;
+    padding: 75px;
+    
+}
