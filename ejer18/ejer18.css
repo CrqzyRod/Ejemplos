@@ -1,0 +1,32 @@
+body {
+    background-color: gainsboro;
+}
+
+.cont1 {
+    background-color: grey;
+    width: 1400px;
+    height: 700px;
+    margin-left: 15px;
+}
+
+.subcont1 {
+    background-color: red;
+    padding: 10px;
+    margin: 20px;
+}
+
+.subcont2 {
+    background-color: yellow;
+    padding: 10px;
+    margin: 20px;
+}
+
+.subcont3 {
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
