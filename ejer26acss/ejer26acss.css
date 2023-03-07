@@ -1,0 +1,17 @@
+.box1 {
+    border: 1px solid black;
+    background-color: aqua;
+}
+
+.box2 {
+    border: 1px solid black;
+    background-image: radial-gradient(blue,red,lightgreen);
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+
+.box3 {
+    border: 1px solid black;
+    background-image: radial-gradient(red,yellow,green);
+}

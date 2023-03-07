@@ -1,0 +1,9 @@
+div {
+    border: 2px solid black;
+}
+
+.img {
+    position: relative;
+    left: 80px;
+    top: 40px;
+}

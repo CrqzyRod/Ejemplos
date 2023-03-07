@@ -1,0 +1,51 @@
+.b1 {
+    background-color: rgb(184, 181, 0);
+    border: 1px solid black;
+    text-align: center;
+    height: 40px;
+}
+
+.b2 {
+    background-color:rgb(184, 181, 0);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.bl1 {
+    text-align: left;
+}
+
+.mp1 {
+    width: 100px;
+    float: left;
+}
+
+.mp2 {
+    width: 100px;
+    float: right;
+}
+
+.b3 {
+    background-color:rgb(184, 181, 0);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.mp3 {
+    width: 100px;
+    float: right;
+}
+
+.bl2 {
+    text-align: left;
+}
+
+.b4 {
+    background-color:rgb(184, 181, 0);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.bl3 {
+    text-align: left;
+}

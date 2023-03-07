@@ -1,0 +1,9 @@
+body {
+    background-color: grey;
+    padding: 500px;
+}
+
+div {
+    position: fixed;
+    background-color: white;
+}
